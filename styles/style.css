@@ -1,7 +1,7 @@
 .header {
   align-items: center;
   display: grid;
-  grid-template-columns: 1fr 136px 1fr; 
+  grid-template-columns: 1fr 136px 1fr;
   padding: 90px 24px 94px;
 }
 
@@ -48,7 +48,7 @@
 }
 
 .cover {
-  background-image: url(../images/cover.jpg); 
+  background-image: url(../images/cover.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
