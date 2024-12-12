@@ -301,9 +301,8 @@
   display: grid;
   grid-template-columns: 237px 1fr 240px;
   margin: 180px 50px 88px;
-
-  
-  border: 1px solid blueviolet
+  padding-left: 2px;
+  padding-top: 1px;
 }
 
 .footer__menu {
